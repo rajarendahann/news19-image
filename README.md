@@ -2,11 +2,11 @@
 
 One image that sums up the world's news of Wednesday 19 November 2026 — an entry for make.fun's daily news-image competition.
 
-![make.fun competition badge](https://make.fun/badge/news-image-20261119.svg)
-![entry rank badge](https://make.fun/badge/news-image-20261119/rajarendahann/news19-image/rank.svg)
-![entry reward badge](https://make.fun/badge/news-image-20261119/rajarendahann/news19-image/reward.svg)
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/rajarendahann/news19-image/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/rajarendahann/news19-image/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
-See the competition on make.fun: https://make.fun/c/news-image-20261119
+See the competition on make.fun: https://make.fun/bounty/news-image-20261119
 
 ## How it works
 
